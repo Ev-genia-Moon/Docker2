@@ -68,5 +68,5 @@
 
 ### Решение
 
-[Задание к занятию «Docker»](https://github.com/Ev-genia-Moon/Selenium1/blob/main/src/test/java/ru/netology/web/CallbackTest.java)
+[Задание к занятию «Docker»](https://github.com/Ev-genia-Moon/Docker2/tree/main)
 
